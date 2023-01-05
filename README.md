@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Liz PortFolio](https://lizdmukami.github.io/liz-portfolio/)
 
-- 📝 I regularly write articles on [https://dev.to/lizdmukami](https://dev.to/lizdmukami)
+- 📝 I regularly write articles on [Find My Blogs](https://dev.to/lizdmukami)
 
 - 💬 Ask me about **Javascript, PHP and MySQL**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Find My Resume Here.](https://drive.google.com/file/d/1A-RFBfJs6f_QKfHncR5afwo8MD0G49x_/view)
 
-- ⚡ Fun fact **I don't have trouble making friends considering how I use humour as a tool to socialise. With my sense of humour, I am able to make great friends and sustain relationships too. Don't worry, my jokes are kind and not personal attacks.**
+- ⚡ Fun fact **I don't have trouble making friends considering how I use humour as a tool to socialise.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
