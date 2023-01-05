@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Angular and nodejs**
 
-- 👨‍💻 All of my projects are available at [https://lizdmukami.github.io/liz-portfolio/](https://lizdmukami.github.io/liz-portfolio/)
+- 👨‍💻 All of my projects are available at [Liz PortFolio](https://lizdmukami.github.io/liz-portfolio/)
 
 - 📝 I regularly write articles on [https://dev.to/lizdmukami](https://dev.to/lizdmukami)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **lizdmukami@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A-RFBfJs6f_QKfHncR5afwo8MD0G49x_/view](https://drive.google.com/file/d/1A-RFBfJs6f_QKfHncR5afwo8MD0G49x_/view)
+- 📄 Know about my experiences [Find My Resume Here.](https://drive.google.com/file/d/1A-RFBfJs6f_QKfHncR5afwo8MD0G49x_/view)
 
 - ⚡ Fun fact **I don't have trouble making friends considering how I use humour as a tool to socialise. With my sense of humour, I am able to make great friends and sustain relationships too. Don't worry, my jokes are kind and not personal attacks.**
 
