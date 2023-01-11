@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on an [E-commerce Website](https://mukami-school-work.github.io/E-commerce-product-page/)
 
-- 🌱 I’m currently learning **React, Angular and nodejs**
+- 🌱 I’m currently learning **React, Ruby and Rails**
 
 - 👨‍💻 All of my projects are available at [Liz PortFolio](https://lizdmukami.github.io/liz-portfolio/)
 
