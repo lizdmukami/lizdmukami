@@ -1,4 +1,3 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://lizdmukami.github.io/liz-portfolio/)
 <h1 align="center">Hi 👋, I'm Liz D. Mukami</h1>
 <h3 align="center">A passionate full-stack developer from Nairobi Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/03/34/92/46/1000_F_334924600_Qtl5awh2cniAh0J1ofm6t37kcAl0JSjZ.jpg">
