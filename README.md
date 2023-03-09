@@ -8,13 +8,15 @@
 
 - 🔭 I’m currently working on an [E-commerce Website](https://mukami-school-work.github.io/E-commerce-product-page/)
 
-- 🌱 I’m currently learning **React, Ruby and Rails**
+- 🔭 A group project that I worked on did the frontend design on an [Laundry Services Website](https://house-services-front-end-ochieng23.vercel.app)
+
+- 🌱 I’m currently learning **React, Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [Liz PortFolio](https://lizdmukami.github.io/liz-portfolio/)
 
 - 📝 I regularly write articles on [Find My Blogs](https://dev.to/lizdmukami)
 
-- 💬 Ask me about **Javascript, PHP and MySQL**
+- 💬 Ask me about **Javascript, REACTJS, RUBY and SQL**
 
 - 📫 How to reach me **lizdmukami@gmail.com**
 
