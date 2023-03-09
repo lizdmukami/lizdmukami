@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on an [E-commerce Website](https://mukami-school-work.github.io/E-commerce-product-page/)
 
-- 🔭 A group project that I worked on did the frontend design on an [Laundry Services Website](https://house-services-front-end-ochieng23.vercel.app)
+- 🔭 A group project that I worked on and did the frontend design: [Laundry Services Website](https://house-services-front-end-ochieng23.vercel.app)
 
 - 🌱 I’m currently learning **React, Ruby on Rails**
 
