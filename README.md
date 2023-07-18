@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/lizdmukami" target="blank"><img src="https://img.shields.io/twitter/follow/lizdmukami?logo=twitter&style=for-the-badge" alt="lizdmukami" /></a> </p>
 
-- 🔭 I’m currently working on an [E-commerce Website](https://mukami-school-work.github.io/E-commerce-product-page/)
+- 🔭 I’m currently working on an [E-commerce Website](https://mukami-school-work.github.io/E-commerce-product-page/) and a [facebook clone](https://social-book-obngkpwpi-lizdmukami.vercel.app/)
 
 - 🔭 A group project that I worked on and did the frontend design: [Laundry Services Website](https://house-services-front-end-ochieng23.vercel.app)
 
