@@ -10,13 +10,13 @@
 
 - 🔭 A group project that I worked on and did the frontend design: [Laundry Services Website](https://house-services-front-end-ochieng23.vercel.app)
 
-- 🌱 I’m currently learning **React, Ruby on Rails**
+- 🌱 I’m currently learning **PHP, WordPress Theme Development**
 
 - 👨‍💻 All of my projects are available at [Liz PortFolio](https://lizdmukami.github.io/liz-portfolio/)
 
 - 📝 I regularly write articles on [Find My Blogs](https://dev.to/lizdmukami)
 
-- 💬 Ask me about **Javascript, REACTJS, RUBY and SQL**
+- 💬 Ask me about **Javascript, REACTJS, WordPress & PHP**
 
 - 📫 How to reach me **lizdmukami@gmail.com**
 
