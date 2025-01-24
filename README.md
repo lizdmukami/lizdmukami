@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **PHP, WordPress Theme Development**
 
-- 👨‍💻 All of my projects are available at [Liz PortFolio](https://lizdmukami.github.io/liz-portfolio/)
+- 👨‍💻 All of my projects are available at [Liz PortFolio](https://www.theldmcenter.com/)
 
 - 📝 I regularly write articles on [Find My Blogs](https://dev.to/lizdmukami)
 
